@@ -1,2 +1,24 @@
-# vue-restaurant-site
-Bienvenue dans le dépôt du projet Vue Restaurant App ! Ce projet a été créé avec Vue.js pour fournir une expérience interactive et conviviale lors de la navigation et de la commande sur un site de restaurant en ligne.
+# test
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
